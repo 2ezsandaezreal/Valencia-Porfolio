@@ -1,8 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
+title: Sanda Porfolio
+email: 2ezsandaezreal@gmail.com
+description: Van Anthony S. Valencia
+baseurl: "/Anthony--Porfolio/"
 url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Van Anthony S. Valencia" # Set default author name
+      categories: "Places"
       layout: "post"
       comments: true
   -
